@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/UniVarsity/static/css/main.4d37b730.css",
+    "main.js": "/UniVarsity/static/js/main.3b9e366d.js",
+    "static/media/b4.jpg": "/UniVarsity/static/media/b4.b90f3226735f93a9ad8c.jpg",
+    "static/media/b3.jpg": "/UniVarsity/static/media/b3.d78c1af46e2a4db229eb.jpg",
+    "static/media/b2.jpg": "/UniVarsity/static/media/b2.d38c5f13e23f6e469b89.jpg",
+    "static/media/b1.jpg": "/UniVarsity/static/media/b1.1ae86ee8b8525454fcc6.jpg",
+    "static/media/tme.png": "/UniVarsity/static/media/tme.e6a4611fb27a027999de.png",
+    "static/media/2.jpeg": "/UniVarsity/static/media/2.923e8ec6306145060d72.jpeg",
+    "static/media/feedbacks.svg": "/UniVarsity/static/media/feedbacks.f312e299fcfde12b729c123a92a2b9d9.svg",
+    "static/media/3.jpeg": "/UniVarsity/static/media/3.9e614358b9e8cf232cc5.jpeg",
+    "static/media/1.jpeg": "/UniVarsity/static/media/1.05faf5abed73c7dc35e7.jpeg",
+    "static/media/logo.webp": "/UniVarsity/static/media/logo.dcadbac70a29f2d28b14.webp",
+    "static/media/settings.svg": "/UniVarsity/static/media/settings.b5a7586ad8c4b113c08043d64028e18d.svg",
+    "static/media/aboutus.svg": "/UniVarsity/static/media/aboutus.758d5d2a1f68e84e6367716a0557a24e.svg",
+    "static/media/remainder.svg": "/UniVarsity/static/media/remainder.89ac70ff792513ad9fa8212544010503.svg",
+    "static/media/contactus.svg": "/UniVarsity/static/media/contactus.504c47c163711b2154c39c5b6b15845a.svg",
+    "static/media/wishlist.svg": "/UniVarsity/static/media/wishlist.10e634c60e4294fae5b85aa0e4795d04.svg",
+    "index.html": "/UniVarsity/index.html",
+    "main.4d37b730.css.map": "/UniVarsity/static/css/main.4d37b730.css.map",
+    "main.3b9e366d.js.map": "/UniVarsity/static/js/main.3b9e366d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d37b730.css",
+    "static/js/main.3b9e366d.js"
+  ]
+}
