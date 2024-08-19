@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/UniVarsity/static/css/main.4d37b730.css",
-    "main.js": "/UniVarsity/static/js/main.3b9e366d.js",
+    "main.css": "/UniVarsity/static/css/main.360cffea.css",
+    "main.js": "/UniVarsity/static/js/main.3f060c0e.js",
     "static/media/b4.jpg": "/UniVarsity/static/media/b4.b90f3226735f93a9ad8c.jpg",
     "static/media/b3.jpg": "/UniVarsity/static/media/b3.d78c1af46e2a4db229eb.jpg",
     "static/media/b2.jpg": "/UniVarsity/static/media/b2.d38c5f13e23f6e469b89.jpg",
@@ -18,11 +18,11 @@
     "static/media/contactus.svg": "/UniVarsity/static/media/contactus.504c47c163711b2154c39c5b6b15845a.svg",
     "static/media/wishlist.svg": "/UniVarsity/static/media/wishlist.10e634c60e4294fae5b85aa0e4795d04.svg",
     "index.html": "/UniVarsity/index.html",
-    "main.4d37b730.css.map": "/UniVarsity/static/css/main.4d37b730.css.map",
-    "main.3b9e366d.js.map": "/UniVarsity/static/js/main.3b9e366d.js.map"
+    "main.360cffea.css.map": "/UniVarsity/static/css/main.360cffea.css.map",
+    "main.3f060c0e.js.map": "/UniVarsity/static/js/main.3f060c0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d37b730.css",
-    "static/js/main.3b9e366d.js"
+    "static/css/main.360cffea.css",
+    "static/js/main.3f060c0e.js"
   ]
 }
