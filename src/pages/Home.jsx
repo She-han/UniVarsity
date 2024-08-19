@@ -249,7 +249,7 @@ const Home = () => {
                     HackElite
                   </h3>
                   <p className="mt-1 text-xs text-gray-400 text-start opacity-60 ">
-                    University of Moratuwa
+                    University of Colombo School of Computing
                   </p>
                   <div className="flex items-start justify-start gap-2 mt-3 text-xl text-purple-600 md:text-2xl md:gap-5 xl:gap-5 xl:text-3xl ">
                     <motion.button
@@ -610,7 +610,7 @@ const Home = () => {
                     HackElite
                   </h3>
                   <p className="mt-1 text-xs text-gray-400 text-start opacity-60 ">
-                    University of Moratuwa
+                    University of Colombo School of Computing
                   </p>
                   <div className="flex items-start justify-start gap-2 mt-3 text-xl text-purple-600 md:text-2xl md:gap-5 xl:gap-5 xl:text-3xl ">
                     <motion.button
@@ -971,7 +971,7 @@ const Home = () => {
                     HackElite
                   </h3>
                   <p className="mt-1 text-xs text-gray-400 text-start opacity-60 ">
-                    University of Moratuwa
+                    University of Colombo School of Computing
                   </p>
                   <div className="flex items-start justify-start gap-2 mt-3 text-xl text-purple-600 md:text-2xl md:gap-5 xl:gap-5 xl:text-3xl ">
                     <motion.button
